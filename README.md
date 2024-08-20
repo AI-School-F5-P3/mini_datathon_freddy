@@ -26,7 +26,7 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la propagac
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/AI-School-F5-P3/covid19_analysis_freddy
+   git clone https://github.com/AI-School-F5-P3/mini_datathon_freddy
    cd covid19_usa_analysis
    ```
 
